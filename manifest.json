@@ -1,7 +1,7 @@
 {
-    "name": "E4Flookup",
-    "description": "Easily look up words on the E4F dictionary.",
-    "version": "1",
+    "name": "Word Lookup",
+    "description": "Easily look up words on dictionaries.",
+    "version": "1.2",
     "manifest_version": 3,
     "background": {
         "service_worker": "background.js"

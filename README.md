@@ -1,3 +1,3 @@
-# E4F Lookup
+# Words Lookup
 
-Easily look up words on the E4F dictionary with right click.
+Easily look up words on different dictionaries with right click.
